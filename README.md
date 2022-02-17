@@ -9,7 +9,7 @@ List of custom filters :)
 
 ## All
 No time ? Copy/Paste this in your uBlock Filters
-```md
+```css
 !Webedia (Didomi Paywall)
 *###didomi-host
 *##.didomi-popup-open:style(overflow:inherit!important)
