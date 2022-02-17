@@ -10,6 +10,7 @@ List of custom filters :)
 ## All
 No time ? Copy/Paste this in your uBlock Filters
 ```
+!Coucou Je suis un super ajout !
 !Webedia (Didomi Paywall)
 *###didomi-host
 *##.didomi-popup-open:style(overflow:inherit!important)
