@@ -13,6 +13,8 @@ No time ? Copy/Paste this in your uBlock Filters
 !Webedia (Didomi Paywall)
 *###didomi-host
 *##.didomi-popup-open:style(overflow:inherit!important)
+!ios
+*##.didomi-popup-open-ios:style(position:inherit!important;width:inherit!important)
 
 ! 2022-02-28 https://www.lachainemeteo.com
 www.lachainemeteo.com##.popinBackground
@@ -34,6 +36,8 @@ Remove Paywall screen and reactive scrollbar
 !Webedia (Didomi Paywall)
 *###didomi-host
 *##.didomi-popup-open:style(overflow:inherit!important)
+!ios
+*##.didomi-popup-open-ios:style(position:inherit!important;width:inherit!important)
 
 ! 2022-02-28 https://www.lachainemeteo.com
 www.lachainemeteo.com##.popinBackground
