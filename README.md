@@ -4,7 +4,7 @@ List of custom filters :)
 ## Contents
 
 - [All](#all)
-- [Webedia (Didomi)](#webedia)
+- [PayWalls](#paywalls)
 - [Twitter](#twitter)
 
 ## All
