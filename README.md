@@ -1,5 +1,6 @@
 # uBlockFilters
 List of custom filters :)
+link to subscribe https://raw.githubusercontent.com/IchbinRob/uBlockFilters/main/list.txt
 
 ## Contents
 
