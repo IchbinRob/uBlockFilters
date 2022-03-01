@@ -1,6 +1,8 @@
 !Webedia (Didomi Paywall)
 *###didomi-host
-*##.didomi-popup-open:style(overflow:inherit!important)
+*##body.didomi-popup-open:style(overflow:inherit!important)
+!ios
+*##body.didomi-popup-open-ios:style(position:initial!important)
 
 ! 2022-02-28 https://www.lachainemeteo.com
 www.lachainemeteo.com##.popinBackground
