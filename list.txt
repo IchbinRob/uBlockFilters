@@ -1,3 +1,4 @@
+!#safari_cb_affinity(content_blockers)
 !Webedia (Didomi Paywall)
 *###didomi-host
 *##body.didomi-popup-open:style(overflow:inherit!important)
@@ -16,3 +17,4 @@ twitter.com##.r-11uj9h2.r-y5suh3.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
 
 !Twitter Subjects
 twitter.com##article[data-testid="tweet"]:has(a[href*="topics"])
+!#safari_cb_affinity
